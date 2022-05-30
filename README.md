@@ -1,4 +1,5 @@
 # Aufgabenstellung BinaryCounter
+Versionen in C++ und Python
 
 ## Vorbereitung github
 - logge dich auf deinem Github-Account ein
